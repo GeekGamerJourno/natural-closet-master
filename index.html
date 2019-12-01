@@ -1,0 +1,121 @@
+---
+layout: home
+banner-heading: Natural Closet
+banner-image: images/banner.jpg
+title: Natural Closet | Linen Fashion
+---
+<body>
+  <header class="grid header-image" style="background-image: url('{{page.banner-image}}');">
+    <div class="col-12-middle">
+    <h1 class="col-12">{{page.banner-heading}}</h1>
+    {% include navigation.html %}   <!-- this places the nav bar on the banner -->
+    </div>
+  </header>
+<!-- GRID SECTION ---->
+<section class="no-padding">
+  <div class="grid-equalHeight med-height editable">
+    <div class="col-6_sm-12 box-img tile-image">
+    </div>
+    <div class="col-6_sm-12-middle">
+      <a href="/shop"><h2> Tops </h2> </a>
+    </div>
+  </div> <!-- end grid -->
+
+  <div class="grid-equalHeight mob-flip med-height editable">
+    <div class="col-6_sm-12-middle">
+      <a href="/shop"><h2> Bottoms </h2> </a>
+    </div>
+    <div class="col-6_sm-12 box-img tile-image2">
+    </div>
+  </div> <!-- end grid -->
+
+  <div class="grid-equalHeight med-height editable">
+    <div class="col-6_sm-12 box-img tile-image3">
+    </div>
+    <div class="col-6_sm-12-middle">
+      <a href="/shop"><h2> Dresses </h2> </a>
+    </div>
+  </div>
+    <div class="grid-equalHeight mob-flip med-height editable">
+      <div class="col-6_sm-12-middle">
+        <a href="/about"><h2> Bespoke </h2> </a>
+      </div>
+      <div class="col-6_sm-12 box-img tile-image4">
+      </div>
+    </div> <!-- end grid -->
+</section>
+
+<!-- leaf icon section-->
+<section class="iconsection">
+  <div class="grid">
+    <h2 class="col-12 featured"><span>Fashion</span> you can love</h2>
+  </div>
+    <div class="grid">
+      <div class="col-3_md-6_sm-12">
+        <i class="fa fa-envira fa-3x"></i>
+        <p class="editable">All natural fabrics are sustainably sourced and good for the planet</p>
+      </div>
+      <div class="col-3_md-6_sm-12">
+        <i class="fa fa-envira fa-3x"></i>
+        <p class="editable">Expertly hand made and unique designs to suit any shape.</p>
+      </div>
+      <div class="col-3_md-6_sm-12">
+        <i class="fa fa-envira fa-3x"></i>
+        <p class="editable">One-off pieces that set you apart from the crowd.</p>
+      </div>
+      <div class="col-3_md-6_sm-12">
+        <i class="fa fa-envira fa-3x"></i>
+        <p class="editable">In house label of trusted local business Nathans Boutique.</p>
+      </div>
+    </div>
+</section>
+
+<!-- big banner section -->
+<section class="grid banner">
+  <div class="col-12-middle"> <!-- banner class need for the span-->
+    <h4 class="little">never underestimate the power of</h4>
+    <h3 class="big no-padding">a well made <span class="white">dress</span></h3>
+  </div>
+</section>
+
+<!-- quote section -->
+<section class="quote">
+  <div class="grid">
+    <div class="col-1-right">
+      <i class="fa fa-quote-left fa-1x"></i>
+    </div>
+    <div class="col-10">
+      <p class="quote-text editable">Sue’s designs bring me such joy, her fabrics are natural and her clothes are like gifts from the earth. Once you wear them you can’t go back!</p>
+    </div>
+    <div class="col-1-left">
+      <i class="fa fa-quote-right fa-1x"></i>
+    </div>
+    <div class="col-12">
+    <p class="quote-author"> - a very happy customer</p>
+    </div>
+  </div>
+</section>
+
+<!-- let's connect section -->
+<section class="connect">
+  <div class="grid">
+      <div class="col-4_sm-12">
+        <h5>Let's <span>connect</span></h5>
+        <br>
+        <p class="connect-text editable"> Got a question or want to make a purchase? Send me an email or visit in store.<br><br>Nathan’s Boutique <br>23 Targo Street <br>Bundaberg, QLD, 4670 <br>Ph: (07) 4151 2229
+
+        </p>
+      </div>
+      <div class="col-4_sm-12_sm-hidden">
+      </div>
+      <div class="col-4_sm-12 container">
+          <form method="post" action="/index.html">
+            <input type="hidden" name="_to" value="nathansboutique@bigpond.com"><!--sends the form to my email-->
+            <input type="text" id="fname" name="firstname" placeholder="Your name..">
+            <input type="text" id="email" name="email" placeholder="Your email..">
+            <textarea id="subject" name="subject" placeholder="Tell us what you want to say..." style="height:200px"></textarea>
+            <input type="submit" value="Submit">
+          </form>
+      </div>
+  </div>
+</section>

@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html>
+<!-- HEAD this is where we put all the extra info for the browser like google fonts, css, seo -->
+
+<head>
+   {% include head.html %}
+   <!-- This adds page specific content to the head of that page. -->
+   {{page.head_html}}
+</head>
+  <!--BODY this is where the entire website will go  -->
+
+
+    {{content}}
+
+  </body>
+</html>

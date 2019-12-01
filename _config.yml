@@ -1,0 +1,45 @@
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+collections:
+   products:
+    output: true
+
+# This is the configuration for the pagination plugin.
+paginate: 2
+paginate_path: "/archive/page:num/"
+
+# This is the configuration for the Jekyll-archives plugin.
+jekyll-archives:
+  enabled:
+    - year
+    - month
+    - categories
+    - tags
+  layout: 'archive'
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+
+algolia:
+  application_id: 'your_application_id'
+  index_name:     'your_index_name'
+  settings:
+    attributesToIndex:
+      - title
+      - h1
+      - h2
+      - h3
+      - h4
+      - h5
+      - h6
+      - unordered(text)
+      - unordered(tags)
+      - your_custom_attribute_1
+      - your_custom_attribute_2
+      - ...
