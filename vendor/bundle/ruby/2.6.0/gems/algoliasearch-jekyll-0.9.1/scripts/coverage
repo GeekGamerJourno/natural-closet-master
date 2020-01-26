@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+COVERAGE=1 appraisal jekyll-v2 bundle exec rspec
