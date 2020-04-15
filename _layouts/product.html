@@ -1,0 +1,31 @@
+---
+layout: default
+title: Shop
+---
+
+<section class="tall grid">
+
+  <div class="col-6_sm-12">
+      <img class="full-width" src="{{page.image_path}}">
+      <!-- The following for loop needs to stay on one line as it's using inline-block, when there is no space between the loop and the image it will eliminate the linespace issue. -->
+      {% for image in page.images %}<img class="half-width" src={{image.url}} alt="{{image.alt}}">{% endfor %}
+  </div>
+
+  <div class="col-6_sm-12">
+    <h1> {{page.title}} </h1>
+    <h3> $ {{page.price}}</h3>
+
+    {{content}}
+
+    <button
+      class="snipcart-add-item"
+      data-item-id="{{page.id}}"
+      data-item-name="{{page.name}}"
+      data-item-price="{{page.price}}"
+      data-item-weight="{{page.weight}}"
+      data-item-url="{{page.url}}"
+      data-item-description="{{page.description}}">
+          Buy Now
+      </button>
+    </div>
+</section>
