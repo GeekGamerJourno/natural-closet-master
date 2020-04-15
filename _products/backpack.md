@@ -1,6 +1,6 @@
 ---
 name: Dress
-description: This is a great dress
+description: '1'
 layout: product
 image_path: /images/Screen Shot 2019-06-30 at 4.56.18 pm.png
 ---
