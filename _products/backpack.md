@@ -3,7 +3,7 @@ name: Dress
 id: 1
 description: This is a great dress
 layout: product
-image_path: /uploads/screen-shot-2020-04-07-at-4-42-48-pm.png
+image_path: /images/Screen Shot 2019-06-30 at 4.56.18 pm.png
 ---
 
 An noster voluptua convenire mei. At sed tollit scaevola, an maiorum repudiare per. Mei epicuri apeirian ne, usu iisque aliquam praesent ad, omnes ullamcorper in pri. Vitae quaeque mea cu. Mei quot laoreet laboramus eu, cu propriae patrioque maiestatis vel.
