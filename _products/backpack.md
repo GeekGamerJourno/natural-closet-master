@@ -1,10 +1,9 @@
 ---
-name: Backpack
-id: 01
-description: This is a great backpack
+name: Dress
+id: 1
+description: This is a great dress
 layout: product
-image_path: http://www.instituteofcode.com/assets/images/rice-paddy.jpg
-
+image_path: /uploads/screen-shot-2020-04-07-at-4-42-48-pm.png
 ---
 
-Ut eum veniam dicunt virtute, an noster voluptua convenire mei. At sed tollit scaevola, an maiorum repudiare per. Mei epicuri apeirian ne, usu iisque aliquam praesent ad, omnes ullamcorper in pri. Vitae quaeque mea cu. Mei quot laoreet laboramus eu, cu propriae patrioque maiestatis vel.
+An noster voluptua convenire mei. At sed tollit scaevola, an maiorum repudiare per. Mei epicuri apeirian ne, usu iisque aliquam praesent ad, omnes ullamcorper in pri. Vitae quaeque mea cu. Mei quot laoreet laboramus eu, cu propriae patrioque maiestatis vel.
