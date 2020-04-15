@@ -1,6 +1,5 @@
 ---
 name: Handbag
-id: 02
 description: This is a great handbag
 layout: product
 image_path: http://www.instituteofcode.com/assets/images/rice-paddy.jpg

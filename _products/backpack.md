@@ -1,6 +1,5 @@
 ---
 name: Dress
-id: 1
 description: This is a great dress
 layout: product
 image_path: /uploads/screen-shot-2020-04-07-at-4-42-48-pm.png
