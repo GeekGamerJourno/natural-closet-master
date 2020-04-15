@@ -7,6 +7,7 @@ plugins:
 collections:
    products:
     output: true
+    sort_by: date
 
 # This is the configuration for the pagination plugin.
 paginate: 2
