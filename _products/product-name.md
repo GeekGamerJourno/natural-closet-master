@@ -1,5 +1,5 @@
 ---
-name: Product name
+name: Kate Top
 description: This is a short description of the product
 layout: product
 image_path: /uploads/Screen Shot 2019-06-30 at 4.57.57 pm.png
