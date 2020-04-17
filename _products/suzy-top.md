@@ -25,4 +25,12 @@ The neck line suits a brooch.
 
 Please Note:
 
+Suzy can be custom made just for you.
+
+From our range of current fabrics.
+
+Click here for Fabric collection.
+
+Click here for measurement advice.
+
 &nbsp;
