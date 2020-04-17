@@ -10,15 +10,17 @@ image_path: /uploads/IMG_0801.JPG
 
 Ayla Top.&nbsp;
 
-Easy relaxed fit.&nbsp; A real winner.
+Easy relaxed fit.&nbsp;&nbsp;
 
-Bound neck line &nbsp;![](/uploads/img-0858---copy.JPG){: width="160" height="120"}
+Bound neck line&nbsp;&nbsp;
 
 Drop shoulder with frill&nbsp;
 
 Sits close on hip
 
-![](/uploads/img-0802---copy.JPG){: width="120" height="160"}&nbsp;&nbsp;![](/uploads/img-0854---copy.JPG){: width="120" height="160"}&nbsp; &nbsp;![](/uploads/img-0855---copy.JPG){: width="120" height="160"}&nbsp; &nbsp;![](/uploads/img-0857---copy.JPG){: width="120" height="160"}&nbsp;&nbsp;![](/uploads/img-0856---copy.JPG){: width="120" height="160"}
+Perfect plus size top
+
+![](/uploads/img-0802---copy.JPG){: width="120" height="160"}&nbsp; &nbsp; &nbsp;![](/uploads/img-0855---copy.JPG){: width="120" height="160"}&nbsp; &nbsp;&nbsp;![](/uploads/img-0857---copy.JPG){: width="120" height="160"}&nbsp;&nbsp;
 
 &nbsp;
 
