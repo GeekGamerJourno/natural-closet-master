@@ -5,19 +5,29 @@ description: |-
   Easy relaxed fit
   Sleeve Frill
 layout: product
-image_path: /uploads/IMG_0854.JPG
+image_path: /uploads/IMG_0801.JPG
 ---
 
-Ayla Top.&nbsp;
+### Ayla Top.&nbsp;
 
-Easy relaxed fit.
+### Easy relaxed fit.
 
-Bound neck line
+### Bound neck line
 
-Drop shoulder with frill&nbsp;
+### Drop shoulder with frill&nbsp;
 
-Sits close on hip
+### Sits close on hip
 
-Please Note: Ayla can be custom made just for you. From our range of current fabrics. Click here for Fabric collection. Click here for measurement advice.
+### &nbsp;
+
+### Please Note:
+
+### Ayla can be custom made just for you.
+
+### From our range of current fabrics.
+
+### Click here for Fabric collection.
+
+### Click here for measurement advice.
 
 &nbsp;
