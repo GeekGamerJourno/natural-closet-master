@@ -33,6 +33,6 @@ Choose from our range of current fabrics.
 
 \* Click here for measurement advice.
 
-&nbsp;
+Ring me (Sue) to help in anyway 0427556630
 
 &nbsp;
