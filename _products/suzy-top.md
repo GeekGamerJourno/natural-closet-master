@@ -21,16 +21,18 @@ Asymmetric neck line and hem.&nbsp;
 
 The neck line suits a brooch.
 
-&nbsp;![](/uploads/brooch-3.JPG){: width="336" height="336"}
+![](/uploads/brooch-4.JPG){: width="160" height="160"}&nbsp; &nbsp; &nbsp;![](/uploads/brooch-3-1.JPG){: width="160" height="160"}
+
+&nbsp;
 
 Please Note:
 
 Suzy can be custom made just for you.
 
-From our range of current fabrics.
+Choose from our range of current fabrics.
 
-Click here for Fabric collection.
+\* Click here for Fabric collection.
 
-Click here for measurement advice.
+\* Click here for measurement advice.
 
 &nbsp;
