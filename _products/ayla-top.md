@@ -5,7 +5,7 @@ description: |-
   Easy relaxed fit
   Sleeve Frill
 layout: product
-image_path: /uploads/IMG_0801.JPG
+image_path: /uploads/img-0856---copy.JPG
 ---
 
 Ayla Top.&nbsp;
