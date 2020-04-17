@@ -1,8 +1,38 @@
 ---
 name: Kate Top
-description: This is a short description of the product
+description: |-
+  Relaxed fit
+  Great top for figure faults.
 layout: product
-image_path: /uploads/Screen Shot 2019-06-30 at 4.57.57 pm.png
+image_path: /uploads/P1050607.JPG
 ---
 
-This is a longer description of the product and appears on the product page. I can edit text here like I would in Word, such as making it **bold** or\*italics \*
+Kate Top.
+
+Great top to accentuate your waist, while still being a relaxed fit.
+
+Whilst suiting most body shapes. The feminine half circle frills slims down a hippy figure.&nbsp;
+
+Gentle frill on the sleeve provides good arm/underarm coverage whilst having plenty of room if you have a larger upper arm.
+
+If you have a tummy this top is also suited to you, as it disguise's it beautifully with the gentle frill. The back is slightly longer which as we know gives a sliming side on veiw.&nbsp;
+
+Wonderful plus size top.
+
+![](/uploads/p1050608---copy---copy.JPG){: width="160" height="113"}&nbsp; &nbsp; &nbsp;![](/uploads/p1050610---copy---copy.JPG){: width="115" height="160"}
+
+&nbsp;
+
+Please Note:
+
+Kate can be custom made just for you.
+
+Choose from our range of current fabrics.
+
+\* Click here for Fabric collection.
+
+\* Click here for measurement advice.
+
+&nbsp;
+
+&nbsp;
