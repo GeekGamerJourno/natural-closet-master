@@ -1,8 +1,23 @@
 ---
-name: Accessory
-description:
+name: Ayla Top
+description: |-
+  Linen
+  Easy relaxed fit
+  Sleeve Frill
 layout: product
-image_path: /images/Screen Shot 2019-06-30 at 4.57.32 pm.png
+image_path: /uploads/IMG_0854.JPG
 ---
 
-This is an accessory
+Ayla Top.&nbsp;
+
+Easy relaxed fit.
+
+Bound neck line
+
+Drop shoulder with frill&nbsp;
+
+Sits close on hip
+
+Please Note: Ayla can be custom made just for you. From our range of current fabrics. Click here for Fabric collection. Click here for measurement advice.
+
+&nbsp;
