@@ -21,13 +21,9 @@ Perfect for a busty lady.
 
 Generous set in sleeve to stop pulling across the back.
 
-Kit top goes back beautifully with our bias cut slip skirt, pictured here.
+Kit top goes back beautifully with our bias cut slip skirt ($89.95) pictured here.
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+![](/uploads/img-0721---copy.jpg){: width="149" height="314"}
 
 Please Note:
 
