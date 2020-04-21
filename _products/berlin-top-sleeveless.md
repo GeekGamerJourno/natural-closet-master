@@ -2,7 +2,7 @@
 name: Berlin Top Sleeveless
 description: Fabulous casual cowl top.
 layout: product
-image_path: /IMG_0701.JPG
+image_path: /uploads/img-0798---copy.jpg
 ---
 
 Berlin Top
@@ -15,7 +15,7 @@ A casual cowl. That frames the face and neck beautifully.
 
 Looks so different in different colours.
 
-![](/uploads/img-0734---copy.jpg){: width="223" height="314"}&nbsp;&nbsp;![](/uploads/img-0798---copy.jpg){: width="210" height="314"}&nbsp;&nbsp; &nbsp;![](/uploads/img-0795---copy.jpg){: width="229" height="314"}
+![](/uploads/img-0734---copy.jpg){: width="223" height="314"}&nbsp; &nbsp;&nbsp; &nbsp;![](/uploads/img-0795---copy.jpg){: width="229" height="314"}
 
 Please Note:
 
