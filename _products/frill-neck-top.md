@@ -5,12 +5,14 @@ description: |-
   Dramatic Frill neck
   3/4 sleeve
 layout: product
-image_path: /uploads/P1050839.JPG
+image_path: /uploads/IMG_0973.JPG
 ---
 
 Frill neck top.
 
 $159.95
+
+Our Carole wears it so proudly
 
 Dramatic frill neck. Leaving a very flattering long v neck line.
 
@@ -20,9 +22,13 @@ Great bodice fit with dart.
 
 Generous set in sleeve so no uncomfy back pulling.
 
-Also looks good in a dress.
+Also looks good made into a dress.
 
-![](/uploads/p1050837---copy.JPG){: width="235" height="314"}
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 Please Note:
 
