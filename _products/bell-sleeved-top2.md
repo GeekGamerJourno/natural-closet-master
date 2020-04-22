@@ -3,6 +3,7 @@ name: Bell sleeved top
 description: An original.
 layout: product
 type: Top
+date: 2020-04-22
 image_path: /uploads/Screen Shot 2019-06-30 at 5.02.45 pm.png
 images:
   - url: http://www.instituteofcode.com/assets/images/rice-paddy.jpg
