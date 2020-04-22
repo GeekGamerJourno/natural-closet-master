@@ -5,6 +5,8 @@ layout: product
 type: Top
 date: 2020-04-22 00:00:00
 image_path: /uploads/img-0798---copy.jpg
+images:
+  - url:
 ---
 
 Berlin Top

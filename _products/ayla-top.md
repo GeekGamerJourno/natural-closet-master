@@ -10,8 +10,8 @@ date: 2020-04-22 00:00:00
 image_path: /uploads/img-0856---copy.JPG
 images:
   - url: /uploads/img-0802---copy.JPG
-  - url: /uploads/img-0855---copy.JPG)
-  - url: /uploads/img-0857---copy.JPG)
+  - url: /uploads/img-0855---copy.JPG
+  - url: /uploads/img-0857---copy.JPG
 
 ---
 

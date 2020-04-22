@@ -7,6 +7,10 @@ layout: product
 type: Top
 date: 2020-04-22 00:00:00
 image_path: /uploads/P1050607.JPG
+images:
+  - url: /uploads/p1050608---copy---copy.JPG
+  - url: /uploads/p1050610---copy---copy.JPG
+
 ---
 
 Kate Top.
@@ -21,9 +25,7 @@ If you have a tummy this top is also suited to you, as it disguise's it beautifu
 
 Wonderful plus size top.
 
-![](/uploads/p1050608---copy---copy.JPG){: width="160" height="113"}&nbsp; &nbsp; &nbsp;![](/uploads/p1050610---copy---copy.JPG){: width="115" height="160"}
 
-&nbsp;
 
 Please Note:
 

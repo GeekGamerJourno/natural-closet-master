@@ -9,6 +9,10 @@ layout: product
 type: Top
 date: 2020-04-22 00:00:00
 image_path: /uploads/P1050575.JPG
+images:
+  - url: /uploads/brooch-3-1.JPG
+  - url: /uploads/brooch-4.JPG
+  - url: /uploads/brooch-4.JPG
 ---
 
 Suzy Top
@@ -23,9 +27,6 @@ Asymmetric neck line and hem.&nbsp;
 
 The neck line suits a brooch.
 
-![](/uploads/brooch-3-1.JPG){: width="160" height="160"}&nbsp; &nbsp;![](/uploads/brooch-4.JPG){: width="160" height="160"}
-
-![](/uploads/brooch-4.JPG){: width="160" height="160"}Please Note:
 
 Suzy can be custom made just for you.
 

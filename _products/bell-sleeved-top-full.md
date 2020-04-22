@@ -10,7 +10,7 @@ images:
   - url: /uploads/img-8767---copy.JPG
 ---
 
-Bell Sleeved Top.&nbsp;
+Bell Sleeved Top.
 
 The Bell sleeved top is a great bodice fit with dart.
 
@@ -18,7 +18,7 @@ Generous set in sleeve so no uncomfy back pulling.
 
 Full circle bell on sleeve.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+
 
 Please Note:
 

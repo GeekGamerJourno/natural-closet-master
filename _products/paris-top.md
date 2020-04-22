@@ -10,7 +10,9 @@ type: Top
 date: 2020-04-22 00:00:00
 image_path: /uploads/IMG_0485.JPG
 images:
-  - url: http://www.instituteofcode.com/assets/images/rice-paddy.jpg
+  - url: /uploads/p1050828---copy.JPG
+  - url: /uploads/img-0486---copy.JPG
+
 ---
 
 Paris Top
@@ -29,7 +31,8 @@ With interesting side seams.
 
 Goes back perfectly with our basic straight leg pant.
 
-![](/uploads/p1050828---copy.JPG){: width="228" height="314"}&nbsp; &nbsp;![](/uploads/img-0486---copy.JPG){: width="314" height="223"}
+
+
 
 Please Note:
 
