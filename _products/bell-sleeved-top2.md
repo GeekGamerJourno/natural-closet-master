@@ -2,7 +2,6 @@
 name: Bell sleeved top
 description: An original.
 layout: product
-date: YYYY-MM-DD
 type: Top
 image_path: /uploads/Screen Shot 2019-06-30 at 5.02.45 pm.png
 images:
