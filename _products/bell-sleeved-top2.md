@@ -18,7 +18,7 @@ Generous set in sleeve so no uncomfy back pulling.
 
 Full circle bell on sleeve.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/img-8765---copy.JPG){: width="235" height="314"}&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/img-8767---copy.JPG){: width="235" height="314"}
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
 
 Please Note:
 
