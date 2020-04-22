@@ -6,9 +6,9 @@ description: |-
 layout: product
 type: Top
 date: 2020-04-22 00:00:00
-image_path: /P1050566.JPG
+image_path: /uploads/IMG_0973.JPG
 images:
-  - url:/uploads/p1050567---copy.JPG
+  - 'url:/uploads/p1050567---copy.JPG'
 ---
 
 Bell Sleeved Top.&nbsp;
@@ -18,7 +18,6 @@ The Bell sleeved top is a great bodice fit with dart.
 Generous set in sleeve so no uncomfy back pulling.
 
 Full circle bell on sleeve.
-
 
 Please Note:
 
