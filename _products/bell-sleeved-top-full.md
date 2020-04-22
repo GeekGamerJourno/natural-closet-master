@@ -1,5 +1,5 @@
 ---
-name: Bell sleeved top
+name: Bell sleeved top full
 description: An original.
 layout: product
 type: Top

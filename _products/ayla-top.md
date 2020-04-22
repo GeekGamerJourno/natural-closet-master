@@ -5,7 +5,12 @@ description: |-
   Easy relaxed fit
   Sleeve Frill
 layout: product
+type: Top
+date: 2020-04-22
 image_path: /uploads/img-0856---copy.JPG
+images:
+  - url: /uploads/coming-soon.JPG
+
 ---
 
 Ayla Top.&nbsp;
