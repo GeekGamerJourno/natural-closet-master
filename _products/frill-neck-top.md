@@ -9,7 +9,6 @@ type: Top
 date: 2020-04-22 00:00:00
 image_path: /uploads/IMG_0973.JPG
 images:
-  - url: /uploads/IMG_0968.JPG
   - url: /uploads/coming-soon.jpg
 ---
 
