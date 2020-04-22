@@ -30,8 +30,6 @@ Also looks good made into a dress.
 
 &nbsp;
 
-&nbsp;
-
 Please Note:
 
 Frill neck top can be custom made just for you.
