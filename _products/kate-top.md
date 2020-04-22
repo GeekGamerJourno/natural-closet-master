@@ -4,6 +4,8 @@ description: |-
   Relaxed fit
   Great top for figure faults.
 layout: product
+type: Top
+date: 2020-04-22 00:00:00
 image_path: /uploads/P1050607.JPG
 ---
 

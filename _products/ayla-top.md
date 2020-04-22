@@ -6,10 +6,12 @@ description: |-
   Sleeve Frill
 layout: product
 type: Top
-date: 2020-04-22
+date: 2020-04-22 00:00:00
 image_path: /uploads/img-0856---copy.JPG
 images:
-  - url: /uploads/coming-soon.JPG
+  - url: /uploads/img-0802---copy.JPG
+  - url: /uploads/img-0855---copy.JPG)
+  - url: /uploads/img-0857---copy.JPG)
 
 ---
 
@@ -25,9 +27,6 @@ Sits close on hip
 
 Perfect plus size top
 
-![](/uploads/img-0802---copy.JPG){: width="120" height="160"}&nbsp; &nbsp; &nbsp;![](/uploads/img-0855---copy.JPG){: width="120" height="160"}&nbsp; &nbsp;&nbsp;![](/uploads/img-0857---copy.JPG){: width="120" height="160"}&nbsp;&nbsp;
-
-&nbsp;
 
 Please Note:
 

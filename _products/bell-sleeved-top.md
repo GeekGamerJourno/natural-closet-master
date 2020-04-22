@@ -4,6 +4,8 @@ description: |-
   A pretty top.
   With Bell Sleeve
 layout: product
+type: Top
+date: 2020-04-22 00:00:00
 image_path: /P1050566.JPG
 ---
 

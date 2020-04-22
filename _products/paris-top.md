@@ -6,7 +6,11 @@ description: |-
   3/4 Sleeve
   Buttoned front
 layout: product
+type: Top
+date: 2020-04-22 00:00:00
 image_path: /uploads/IMG_0485.JPG
+images:
+  - url: http://www.instituteofcode.com/assets/images/rice-paddy.jpg
 ---
 
 Paris Top
