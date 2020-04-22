@@ -8,7 +8,7 @@ type: Top
 date: 2020-04-22 00:00:00
 image_path: /P1050566.JPG
 images:
-  - url:
+  - url:/uploads/p1050567---copy.JPG
 ---
 
 Bell Sleeved Top.&nbsp;
@@ -19,11 +19,10 @@ Generous set in sleeve so no uncomfy back pulling.
 
 Full circle bell on sleeve.
 
-![](/uploads/p1050567---copy.JPG){: width="235" height="314"}
 
 Please Note:
 
-Bell&nbsp; can be custom made just for you.
+Bell can be custom made just for you.
 
 Choose from our range of current fabrics.
 

@@ -6,7 +6,7 @@ type: Top
 date: 2020-04-22 00:00:00
 image_path: /uploads/IMG_0797.jpg
 images:
-  - url:
+  - url: /uploads/img-0794.jpg
 ---
 
 Berlin Top
@@ -19,7 +19,7 @@ A casual cowl. That frames the face and neck beautifully.
 
 Looks so different in different colours.
 
-![](/uploads/img-0794.jpg){: width="235" height="312"}
+
 
 Please Note:
 
