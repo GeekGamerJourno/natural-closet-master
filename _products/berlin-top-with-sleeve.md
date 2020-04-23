@@ -4,12 +4,15 @@ description: Cowl top with sleeve
 layout: product
 type: Top
 date: 2020-04-22 00:00:00
-image_path: /uploads/IMG_0797.jpg
+image_path: /uploads/img-0794.jpg
 images:
-  - url: /uploads/img-0794.jpg
+  - url:
+  - url:
 ---
 
-Berlin Top
+**Berlin Top With Sleeve**
+
+$149.95
 
 Straight bodice, with or with out a sleeve.
 
@@ -19,9 +22,9 @@ A casual cowl. That frames the face and neck beautifully.
 
 Looks so different in different colours.
 
+&nbsp;
 
-
-Please Note:
+**Please Note:**
 
 Berlin Top can be custom made just for you.
 
