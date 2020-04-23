@@ -7,12 +7,13 @@ description: |-
 layout: product
 type: Top
 date: 2020-04-22 00:00:00
-image_path: /uploads/img-0856---copy.JPG
+image_path: /uploads/IMG_1183.JPG
 images:
   - url: /uploads/img-0802---copy.JPG
   - url: /uploads/img-0855---copy.JPG
   - url: /uploads/img-0857---copy.JPG
-
+  - url: /uploads/IMG_1188.JPG
+  - url: /uploads/IMG_1189.JPG
 ---
 
 Ayla Top.&nbsp;
@@ -26,7 +27,6 @@ Drop shoulder with frill&nbsp;
 Sits close on hip
 
 Perfect plus size top
-
 
 Please Note:
 
