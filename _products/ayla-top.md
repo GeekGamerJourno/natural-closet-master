@@ -17,6 +17,8 @@ images:
 
 **Ayla Top.&nbsp;**
 
+$119.95
+
 Easy relaxed fit.&nbsp;&nbsp;
 
 Bound neck line&nbsp;&nbsp;
