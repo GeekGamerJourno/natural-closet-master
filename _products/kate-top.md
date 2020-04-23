@@ -6,14 +6,15 @@ description: |-
 layout: product
 type: Top
 date: 2020-04-22 00:00:00
-image_path: /uploads/P1050607.JPG
+image_path: /IMG_0822.JPG
 images:
-  - url: /uploads/p1050608---copy---copy.JPG
-  - url: /uploads/p1050610---copy---copy.JPG
-
+  - url: /IMG_0828.JPG
+  - url: /images/IMG_0824.JPG
 ---
 
-Kate Top.
+**Kate Top.**
+
+**$159.95**
 
 Great top to accentuate your waist, while still being a relaxed fit.
 
@@ -25,9 +26,7 @@ If you have a tummy this top is also suited to you, as it disguise's it beautifu
 
 Wonderful plus size top.
 
-
-
-Please Note:
+**Please Note:**
 
 Kate can be custom made just for you.
 
