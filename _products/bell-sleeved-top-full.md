@@ -13,6 +13,8 @@ images:
 
 **Bell Sleeved Top.**
 
+$159.95
+
 The Bell sleeved top is a great bodice fit with dart.
 
 Generous set in sleeve so no uncomfy back pulling.
