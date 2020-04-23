@@ -8,14 +8,14 @@ description: |-
 layout: product
 type: Top
 date: 2020-04-22 00:00:00
-image_path: /uploads/IMG_0485.JPG
+image_path: /uploads/IMG_1125.JPG
 images:
-  - url: /uploads/p1050828---copy.JPG
-  - url: /uploads/img-0486---copy.JPG
-
+  - url: /uploads/IMG_1124.JPG
+  - url: /uploads/IMG_1115.JPG
+  - url: /uploads/IMG_0954.JPG
 ---
 
-Paris Top
+**Paris Top**
 
 $169.95
 
@@ -31,10 +31,9 @@ With interesting side seams.
 
 Goes back perfectly with our basic straight leg pant.
 
+&nbsp;
 
-
-
-Please Note:
+**Please Note:**
 
 Paris Top can be custom made just for you.
 
