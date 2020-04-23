@@ -10,9 +10,11 @@ date: 2020-04-22 00:00:00
 image_path: /uploads/IMG_0973r.jpg
 images:
   - url: /uploads/coming-soon.jpg
+  - url: /uploads/IMG_0968.JPG
+  - url: /uploads/P1050837 - Copy.JPG
 ---
 
-Frill neck top.
+**Frill neck top.**
 
 $159.95
 
@@ -24,7 +26,7 @@ Great bodice fit with dart.
 
 3/4 sleeve
 
-Generous set in sleeve so no uncomfy back pulling.
+Generous set in sleeve so **no** uncomfy back pulling.
 
 Also looks good made into a dress.
 
@@ -32,7 +34,7 @@ Also looks good made into a dress.
 
 &nbsp;
 
-Please Note:
+**Please Note:**
 
 Frill neck top can be custom made just for you.
 
