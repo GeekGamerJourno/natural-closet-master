@@ -1,14 +1,14 @@
 ---
-name: Bell sleeved top full
+name: Bell Sleeved Top
 description: Bell Sleeved Top
 layout: product
 type: Top
 date: 2020-04-22 00:00:00
 image_path: /uploads/IMG_1064 - Copy.JPG
 images:
-  - url: /uploads/img-8765---copy.JPG
-  - url: /uploads/img-8767---copy.JPG
-  - url: /uploads/Screen Shot 2019-06-30 at 5.02.45 pm.png
+  - url: /uploads/IMG_8766.JPG
+  - url: /uploads/IMG_8765.JPG
+  - url: /uploads/IMG_8767.JPG
 ---
 
 **Bell Sleeved Top.**
