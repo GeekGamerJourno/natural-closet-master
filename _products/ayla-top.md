@@ -9,14 +9,13 @@ type: Top
 date: 2020-04-22 00:00:00
 image_path: /uploads/IMG_1183.JPG
 images:
-  - url: /uploads/img-0802---copy.JPG
-  - url: /uploads/img-0855---copy.JPG
-  - url: /uploads/img-0857---copy.JPG
   - url: /uploads/IMG_1188.JPG
   - url: /uploads/IMG_1189.JPG
+  - url: /uploads/IMG_1186.JPG
+  - url: /uploads/IMG_0801.JPG
 ---
 
-Ayla Top.&nbsp;
+**Ayla Top.&nbsp;**
 
 Easy relaxed fit.&nbsp;&nbsp;
 
@@ -28,7 +27,11 @@ Sits close on hip
 
 Perfect plus size top
 
-Please Note:
+&nbsp;
+
+&nbsp;
+
+**Please Note:**
 
 Ayla can be custom made just for you.
 
