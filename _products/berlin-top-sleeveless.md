@@ -1,16 +1,21 @@
 ---
 name: Berlin Top Sleeveless
-description: Fabulous casual cowl top.
+description: |-
+  Fabulous casual cowl top.
+  Sleevless
 layout: product
 type: Top
 date: 2020-04-22 00:00:00
-image_path: /uploads/img-0798---copy.jpg
+image_path: /uploads/IMG_0734.jpg
 images:
-  - url: /uploads/img-0734---copy.jpg
-  - url: /uploads/img-0795---copy.jpg
+  - url: /uploads/IMG_0798.jpg
+  - url: /uploads/IMG_0799.JPG
+  - url: /uploads/IMG_0795.jpg
 ---
 
-Berlin Top
+**Berlin Top Sleevless**
+
+**$119.95**
 
 Straight bodice, with or with out a sleeve.
 
@@ -20,9 +25,9 @@ A casual cowl. That frames the face and neck beautifully.
 
 Looks so different in different colours.
 
+&nbsp;
 
-
-Please Note:
+**Please Note:**
 
 Berlin Top can be custom made just for you.
 
