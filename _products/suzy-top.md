@@ -8,14 +8,15 @@ description: |-
 layout: product
 type: Top
 date: 2020-04-22 00:00:00
-image_path: /uploads/P1050575.JPG
+image_path:
 images:
-  - url: /uploads/brooch-3-1.JPG
-  - url: /uploads/brooch-4.JPG
-  - url: /uploads/brooch-4.JPG
+  - url: /brooch 3 - Copy.JPG
+  - url: /brooch 4 - Copy.JPG
 ---
 
-Suzy Top
+**Suzy Top**
+
+$169.95
 
 Relaxed smart top.
 
@@ -27,8 +28,11 @@ Asymmetric neck line and hem.&nbsp;
 
 The neck line suits a brooch.
 
+&nbsp;
 
-Suzy can be custom made just for you.
+**Please Note:**
+
+Suzy Top can be custom made just for you.
 
 Choose from our range of current fabrics.
 
