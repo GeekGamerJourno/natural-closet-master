@@ -22,9 +22,11 @@ Whilst suiting most body shapes. The feminine half circle frills slims down a hi
 
 Gentle frill on the sleeve provides good arm/underarm coverage whilst having plenty of room if you have a larger upper arm.
 
-If you have a tummy this top is also suited to you, as it disguise's it beautifully with the gentle frill. The back is slightly longer which as we know gives a sliming side on veiw.&nbsp;
+If you have a tummy this top is also suited to you, as it disguise's it beautifully with the gentle frill. The back is slightly longer which as we know gives a slimming side on view.&nbsp;
 
 Wonderful plus size top.
+
+&nbsp;
 
 **Please Note:**
 
