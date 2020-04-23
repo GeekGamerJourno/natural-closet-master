@@ -1,16 +1,17 @@
 ---
 name: Bell sleeved top full
-description: An original.
+description: Bell Sleeved Top
 layout: product
 type: Top
 date: 2020-04-22 00:00:00
-image_path: /uploads/Screen Shot 2019-06-30 at 5.02.45 pm.png
+image_path: /uploads/IMG_1064 - Copy.JPG
 images:
   - url: /uploads/img-8765---copy.JPG
   - url: /uploads/img-8767---copy.JPG
+  - url: /uploads/Screen Shot 2019-06-30 at 5.02.45 pm.png
 ---
 
-Bell Sleeved Top.
+**Bell Sleeved Top.**
 
 The Bell sleeved top is a great bodice fit with dart.
 
@@ -18,9 +19,9 @@ Generous set in sleeve so no uncomfy back pulling.
 
 Full circle bell on sleeve.
 
+&nbsp;
 
-
-Please Note:
+**Please Note:**
 
 Bell sleeved top can be custom made just for you.
 
