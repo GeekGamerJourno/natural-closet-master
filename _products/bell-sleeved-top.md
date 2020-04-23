@@ -1,23 +1,15 @@
 ---
-name: Bell Sleeved Top
-description: |-
-  A pretty top.
-  With Bell Sleeve
+name:
+description:
 layout: product
 type: Top
 date: 2020-04-22 00:00:00
-image_path: /uploads/p1050567---copy.JPG
+image_path:
 images:
   - url: /uploads/coming-soon.jpg
 ---
 
-Bell Sleeved Top.&nbsp;
-
-The Bell sleeved top is a great bodice fit with dart.
-
-Generous set in sleeve so no uncomfy back pulling.
-
-Full circle bell on sleeve.
+&nbsp;
 
 Please Note:
 
