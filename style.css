@@ -499,7 +499,7 @@ input[type=text], select, textarea {
 
 /* Style the submit button with a specific background color etc */
 input[type=submit] {
-  background-color: #AC8948;
+  background-color: #AC8948; /*mustard*/
   color: white;
   width: 100%;
   padding: 12px 19px;
