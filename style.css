@@ -69,8 +69,14 @@ img {
 .full-width { /* for image grids */
   width:98%;
 }
-.half-width { /* for image grids, make sure you eliminate the whitespace issue in your html. Set width to 32% to get 3 images below product */
+.half-width { /* for image grids, make sure you eliminate the whitespace issue in your html. Gives 2 images below product */
   width: 48%;
+  margin-right: 1%;
+  display: inline-block;
+}
+
+.third-width { /* for image grids, make sure you eliminate the whitespace issue in your html. Gives 3 images below product */
+  width: 32%;
   margin-right: 1%;
   display: inline-block;
 }
@@ -146,6 +152,12 @@ h5 {
   line-height: 2.2rem;
   font-family: 'apaluregular', fallback, sans-serif;
   font-weight: 300;
+}
+
+p {
+  font-size: 3rem;
+  font-family: 'work sans';
+  color: black;
 }
 
 span {
