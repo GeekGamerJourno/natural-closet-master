@@ -7,7 +7,7 @@ description: |-
 layout: product
 type: Top
 date: 2020-04-22 00:00:00
-image_path: /uploads/IMG_0973r.jpg
+image_path: /uploads/IMG_0973 resize.jpg
 images:
   - url: /uploads/coming-soon.jpg
   - url: /uploads/IMG_0968.JPG
