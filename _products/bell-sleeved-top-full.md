@@ -4,7 +4,7 @@ description: Bell Sleeved Top
 layout: product
 type: Top
 date: 2020-04-22 00:00:00
-image_path: /uploads/IMG_1064 - Copy.JPG
+image_path: /uploads/full resized.jpg
 images:
   - url: /uploads/IMG_8766.JPG
   - url: /uploads/IMG_8765.JPG
