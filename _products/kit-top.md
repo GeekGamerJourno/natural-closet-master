@@ -13,7 +13,7 @@ images:
   - url: /uploads/img-0721---copy.jpg
 ---
 
-Kit Top
+**Kit Top**
 
 $149.95
 
@@ -25,11 +25,9 @@ Perfect for a busty lady.
 
 Generous set in sleeve to stop pulling across the back.
 
-Kit top goes back beautifully with our bias cut slip skirt ($89.95) pictured here.
+Kit top goes back beautifully with our bias cut slip skirt.&nbsp;
 
-
-
-Please Note:
+**Please Note:**
 
 KIt Top can be custom made just for you.
 
