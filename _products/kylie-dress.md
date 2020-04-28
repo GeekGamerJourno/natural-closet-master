@@ -2,13 +2,13 @@
 name: Kylie Dress
 description: Dress with circular frill on sleeves & Hem
 layout: product
-type: Top
+type: Dress
 date: 2020-04-22 00:00:00
-image_path:
+image_path: /uploads/custom_resized_e4388414-b57c-4511-86c8-0314bfae4000.jpg
 images:
-  - url: /images/custom_resized_5343a7b6-99c2-4645-9319-aeedd4e78cd8.jpg
-  - url: /images/custom_resized_ae95495f-8ce4-43f1-8ba9-29f28dfea9c1.jpg
-  - url: /images/custom_resized_ba197afb-7c51-43f6-8f5c-cd0e0b314600.jpg
+  - url: /uploads/custom_resized_6fc51b57-3b85-4219-99b2-54a0bc26b227.jpg
+  - url: /uploads/custom_resized_b22d7b13-f5b2-45f3-99a4-6211a64d7d61.jpg
+  - url: /uploads/custom_resized_c02b60b1-54bc-426b-b85d-0b2374f6cc6f.jpg
 ---
 
 Kylie Dress
