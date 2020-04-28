@@ -14,3 +14,29 @@ images:
 Kylie Dress
 
 $179.95
+
+Darted bodice with generous set in sleeve so no uncomfy back pulling.
+
+To soften it we have added a circular frill to the end of a 3/4 sleeve plus the hem.
+
+Finished length is up to you. Can make it short or longer.
+
+It's proven its self as a dress for an Island/casual wedding.
+
+Plain or patterned fabrics work well.
+
+&nbsp;
+
+&nbsp;
+
+Please Note:
+
+Kylie Dress can be custom made just for you.
+
+Choose from our range of current fabrics.
+
+\* Click here for Fabric collection.
+
+\* Click here for measurement advice.
+
+Ring me (Sue) to help in anyway 0427556630
