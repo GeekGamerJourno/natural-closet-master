@@ -4,11 +4,9 @@ description: v necked dress a line with sleeve.
 layout: product
 type: Dress
 date: 2020-04-22 00:00:00
-image_path: /uploads/custom_resized_2e0d520c-00fd-46d9-8f25-1b4a397f2193.jpg
+image_path:
 images:
-  - url: /uploads/custom_resized_415cb548-8bbb-4abc-bbae-9ab42e92814a.jpg
-  - url: /uploads/custom_resized_4f5313a8-2c24-4b64-a871-851507d0b80c.jpg
-  - url: /uploads/custom_resized_a92b6326-823b-4d02-8d57-289535479fd7.jpg
+  - url:
 ---
 
 **Paige Dress&nbsp;**
