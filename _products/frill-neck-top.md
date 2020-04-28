@@ -9,9 +9,9 @@ type: Top
 date: 2020-04-22 00:00:00
 image_path: /uploads/IMG_0973 resize.jpg
 images:
-  - url: /uploads/IMG_0968 resize.jpg
-  - url: /uploads/custom_resized_01aff53a-b3e1-48b6-90b1-061ea527db72.jpg
   - url: /uploads/custom_resized_5c4cd9e0-cf79-438a-ad70-e617b3def00d.jpg
+  - url: /uploads/custom_resized_4a681b52-4af3-4546-bfbc-81a13ace441c.jpg
+  - url: /uploads/custom_resized_01aff53a-b3e1-48b6-90b1-061ea527db72.jpg
 ---
 
 **Frill neck top.**
