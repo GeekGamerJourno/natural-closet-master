@@ -6,9 +6,9 @@ type: Top
 date: 2020-04-22 00:00:00
 image_path: /uploads/full resized.jpg
 images:
-  - url: /uploads/IMG_8766.JPG
-  - url: /uploads/IMG_8765.JPG
-  - url: /uploads/IMG_8767.JPG
+  - url: /images/custom_resized_5343a7b6-99c2-4645-9319-aeedd4e78cd8.jpg
+  - url: /images/custom_resized_ae95495f-8ce4-43f1-8ba9-29f28dfea9c1.jpg
+  - url: /images/custom_resized_ba197afb-7c51-43f6-8f5c-cd0e0b314600.jpg
 ---
 
 **Bell Sleeved Top.**
