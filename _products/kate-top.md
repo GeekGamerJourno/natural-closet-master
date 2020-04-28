@@ -6,9 +6,8 @@ description: |-
 layout: product
 type: Top
 date: 2020-04-22 00:00:00
-image_path: /IMG_0822.JPG
+image_path:
 images:
-  - url: /IMG_0828.JPG
   - url: /images/IMG_0824.JPG
 ---
 
@@ -30,7 +29,7 @@ Wonderful plus size top.
 
 **Please Note:**
 
-Kate can be custom made just for you.
+Kate Top can be custom made just for you.
 
 Choose from our range of current fabrics.
 
@@ -40,4 +39,4 @@ Choose from our range of current fabrics.
 
 Ring me (Sue) to help in anyway 0427556630
 
-&nbsp;
+Our model Bridgett is a size 14. Or a size small.
