@@ -19,6 +19,8 @@ To soften it we have added a circular frill to the end of a 3/4 sleeve plus the 
 
 Perfect with our straight leg pant.&nbsp;
 
+Also can be made into a dress please refer to 'Kylie Dress'
+
 A smart plus size top.
 
 &nbsp;
