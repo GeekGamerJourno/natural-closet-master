@@ -2,13 +2,14 @@
 name: Paige Dress no Sleeves
 description: V necked a cut casual dress.
 layout: product
-type: Top
+type: Dress
 date: 2020-04-22 00:00:00
-image_path:
+image_path: /uploads/custom_resized_2e0d520c-00fd-46d9-8f25-1b4a397f2193.jpg
 images:
-  - url: /images/custom_resized_5343a7b6-99c2-4645-9319-aeedd4e78cd8.jpg
-  - url: /images/custom_resized_ae95495f-8ce4-43f1-8ba9-29f28dfea9c1.jpg
-  - url: /images/custom_resized_ba197afb-7c51-43f6-8f5c-cd0e0b314600.jpg
+  - url:
+  - url: /uploads/custom_resized_415cb548-8bbb-4abc-bbae-9ab42e92814a.jpg
+  - url: /uploads/custom_resized_4f5313a8-2c24-4b64-a871-851507d0b80c.jpg
+  - url: /uploads/custom_resized_a92b6326-823b-4d02-8d57-289535479fd7.jpg
 ---
 
 **Paige Dress no Sleeves**
