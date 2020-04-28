@@ -1,20 +1,3 @@
----
-name: Ayla Top
-description: |-
-  Linen
-  Easy relaxed fit
-  Sleeve Frill
-layout: product
-type: Top
-date: 2020-04-22 00:00:00
-image_path: /uploads/IMG_1183.JPG
-images:
-  - url: /uploads/IMG_1188.JPG
-  - url: /uploads/IMG_1189.JPG
-  - url: /uploads/IMG_1186.JPG
-  - url: /uploads/IMG_0801.JPG
----
-
 **Ayla Top.&nbsp;**
 
 $119.95
