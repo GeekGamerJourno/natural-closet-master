@@ -1,8 +1,8 @@
 ---
-name: Berlin Top Sleeveless
+name: Jennifer Top
 description: |-
-  Fabulous casual cowl top.
-  Sleevless
+  Loose over sized top. 
+  With a fabulous stand up lip
 layout: product
 type: Top
 date: 2020-04-22 00:00:00
@@ -13,23 +13,25 @@ images:
   - url: /uploads/IMG_0795.jpg
 ---
 
-**Berlin Top Sleevless**
+**Jennifer Top&nbsp;**
 
-**$119.95**
+**$149.95**
 
-Straight bodice, with or with out a sleeve.
+Wildly stylish with its stand up neck band.
 
-Generous set in sleeve so no uncomfy back pulling.
+Front neck Gathering. Giving an over sized contemporary look .
 
-A casual cowl. That frames the face and neck beautifully.
+Drop sleeve with a 5 inch band ideal for rolling up.
 
-Looks so different in different colours.
+Our Jennifer top teamed with our Cocoon pants are perfect partners.
+
+Jennifer top changes her look in different colours.
 
 &nbsp;
 
 **Please Note:**
 
-Berlin Top can be custom made just for you.
+Jennifer Top can be custom made just for you.
 
 Choose from our range of current fabrics.
 
