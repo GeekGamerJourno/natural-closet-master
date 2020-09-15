@@ -1,6 +1,6 @@
 ---
-name:
-description:
+name: Ayla Top
+description: A winning top.
 layout: product
 type:
 date: 2020-04-22 00:00:00
