@@ -27,6 +27,8 @@ Darted bodice.
 
 Side splits for that little extra comfort when sitting.
 
+A classy complete out fit worn with our slip skirt or straight leg long pants.&nbsp;
+
 &nbsp;
 
 **Please Note:**
