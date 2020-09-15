@@ -1,5 +1,5 @@
 ---
-name: Berlin Top with Sleeve
+name: Berlin Top
 description: Cowl top with sleeve
 layout: product
 type: Top
@@ -18,9 +18,11 @@ Straight bodice, with or with out a sleeve.
 
 Generous set in sleeve so no uncomfy back pulling.
 
-A casual cowl. That frames the face and neck beautifully.
+Darted at bust.
 
-Looks so different in different colours.
+A casual soft cowl. That frames the face and neck beautiful.
+
+Sleeves can be any length&nbsp;
 
 &nbsp;
 
