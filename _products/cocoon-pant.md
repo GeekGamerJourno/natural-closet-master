@@ -1,5 +1,5 @@
 ---
-name: cocoon pant
+name: Cocoon pant
 description: |-
   Elastic waist.
   Pockets.
