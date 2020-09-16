@@ -1,5 +1,5 @@
 ---
-name: Paris Top
+name: Mia Top
 description: |-
   Linen
   Easy relaxed fit
@@ -15,7 +15,7 @@ images:
   - url: /uploads/IMG_0954.JPG
 ---
 
-**Paris Top**
+**Mia Top**
 
 $169.95
 
@@ -27,15 +27,15 @@ Relaxed body fit & sleeve
 
 Slightly longer at the back for a slender side profile.
 
-With interesting side seams.
+With interesting side details.
 
-Goes back perfectly with our basic straight leg pant.
+Team it perfectly with our basic straight leg pant.
 
 &nbsp;
 
 **Please Note:**
 
-Paris Top can be custom made just for you.
+Mia Top can be custom made just for you.
 
 Choose from our range of current fabrics.
 
