@@ -1,6 +1,8 @@
 ---
 name: Ayla Top
-description: A winning top.
+description: |-
+  A winning top.
+  Simple and stylish.
 layout: product
 type:
 date: 2020-04-22 00:00:00
