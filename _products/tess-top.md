@@ -33,7 +33,7 @@ Finished off with a asymmetrical hem line.
 
 **Please Note:**
 
-Berlin Top can be custom made just for you.
+Tess Top can be custom made just for you.
 
 Choose from our range of current fabrics.
 
@@ -41,4 +41,4 @@ Choose from our range of current fabrics.
 
 \* Click here for measurement advice.
 
-Ring me (Sue) to help in anyway 0427556630
+Ring for help in anyway 0427556630. Tess Sue or Carole are the Ladies to talk to.
