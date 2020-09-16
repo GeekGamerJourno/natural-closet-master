@@ -1,37 +1,33 @@
 ---
-name: Paige Dress with sleeve
-description: v necked dress a line with sleeve.
+name: Jackie Shirt
+description: Collared tab front shirt.
 layout: product
-type: Dress
+type: Shirt
 date: 2020-04-22 00:00:00
 image_path:
 images:
   - url:
 ---
 
-**Paige Dress&nbsp;**
+**Jackie Top**
 
 $159.95
 
-&nbsp;Have to have dress.
+&nbsp;True class\! especially with the collar up.
 
-A beautiful v neck.
+A little bit of country. Not enough collared shirts around.&nbsp;
 
-Bodice dart which then falls to an A line with slightly peaked side hem. You have the option for a straight hem also.
+Collared tab front with 3 buttons, darted at bust with very comfy sleeves, no back pulling.
 
-This time we put sleeves in for you. What ever length your after.
+Sleeves Shorter of 3/4 length. Side splits for that little bit of extra comfort when sitting. made to your perfect length.
 
-A great hide the tummy/hips dress.&nbsp;
-
-Plain or patterned fabric suits the Paige dress.
-
-Plus size winner.
+Curvy girl winner.
 
 &nbsp;
 
 **Please Note:**
 
-Paige Dress with sleeves can be custom made just for you.
+Jackie Shirt&nbsp; can be custom made just for you.
 
 Choose from our range of current fabrics.
 
