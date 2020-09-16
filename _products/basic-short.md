@@ -20,7 +20,7 @@ We know its summer when our basic short increases in sales.
 
 Made from our straight leg pant's pattern, we know these fit perfectly.
 
-Elastic waist, pockets, slightly higher at the back rise so when your doing summer activities the short doesn't pull down. with just those little finishes that make all the difference we give this short a deeper hem with side splits.
+Elastic waist, pockets, slightly higher at the back rise so when your doing summer activities the short doesn't pull down. With just those little finishes that make all the difference we give this short a deeper hem with side splits.
 
 Can be made at any length, we recommend mid knee for the best result.
 
