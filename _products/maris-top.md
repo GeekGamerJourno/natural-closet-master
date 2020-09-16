@@ -25,7 +25,7 @@ The perfect bottoms for Maris top are our straight leg pant (long) in matching f
 
 **Please Note:**
 
-Bell sleeved top can be custom made just for you.
+Maris top can be custom made just for you.
 
 Choose from our range of current fabrics.
 
