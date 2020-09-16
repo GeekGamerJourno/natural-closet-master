@@ -1,5 +1,5 @@
 ---
-name: Paige Dress no Sleeves
+name: Paige Dress
 description: V necked a cut casual dress.
 layout: product
 type: Dress
@@ -14,23 +14,25 @@ images:
 
 **Paige Dress no Sleeves**
 
-$149.95
+$159.95
 
-Winner\!\!\!\! Have to have dress.
+Winner\!\!\!\!&nbsp;
 
-A beautiful v neck.
+You have to have this dress.
+
+A beautifully cut v neck.
 
 Bodice dart which then falls to an A line with slightly peaked side hem.
 
-A great hide the tummy/hips dress. Perfect in red for Christmas day lunch.
+Great at hiding the tummy & hips dress.&nbsp;
 
-Plus size winner.
+A perfect curvy style.&nbsp;
 
 &nbsp;
 
 **Please Note:**
 
-Paige Dress no sleeves can be custom made just for you.
+Paige Dress&nbsp; can be custom made just for you.
 
 Choose from our range of current fabrics.
 
