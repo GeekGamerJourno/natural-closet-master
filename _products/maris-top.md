@@ -19,4 +19,18 @@ I love this top. It takes me to a Noosa wedding. Nothing to over the top just re
 
 Dropped&nbsp; shoulder to soften the top of the arm.&nbsp;
 
+The perfect bottoms for Maris top are our straight leg pant (long) in matching fabric.&nbsp;
+
 &nbsp;
+
+**Please Note:**
+
+Bell sleeved top can be custom made just for you.
+
+Choose from our range of current fabrics.
+
+\* Click here for Fabric collection.
+
+\* Click here for measurement advice.
+
+Ring me (Sue) to help in anyway 0427556630
