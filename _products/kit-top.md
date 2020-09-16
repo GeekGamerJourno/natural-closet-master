@@ -29,7 +29,7 @@ Kit top goes back beautifully with our bias cut slip skirt.&nbsp;
 
 **Please Note:**
 
-KIt Top can be custom made just for you.
+Kit Top can be custom made just for you.
 
 Choose from our range of current fabrics.
 
