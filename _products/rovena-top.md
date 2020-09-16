@@ -1,8 +1,8 @@
 ---
-name: Rovena Top
+name: Zara Top
 description: |-
   Interesting top 
-  With detail neck line
+  With side pleat and button detail.
 layout: product
 type: Top
 date: 2020-04-22 00:00:00
@@ -11,29 +11,25 @@ images:
   - url: /images/custom_resized_ba197afb-7c51-43f6-8f5c-cd0e0b314600.jpg
 ---
 
-**Rovena Top**
+**Zara Top**
 
-$169.95
+$149.95
 
-A classic piece with its interesting v turn back.&nbsp;
+A classic piece with its interesting side pleat and button detail.&nbsp;
 
-3/4 sleeve
+Short or 3/4 sleeve which are cut for maximum comfort so no back pulling.
 
-Slightly shaped at waist.
+Darted bust. Side splits can be added for sitting comfort.
 
-Straight leg pants or our bias cut slip skirt is perfect with this top.
+Straight leg pants are the perfect match.
 
-If your after elegance this is the top for you.
-
-I would only suggest plain colours. To show off the neck interest.
-
-This is also a great dress. Please view 'Rovena Dress.'
+I suggest only made in plain colours to shoe off the details.
 
 &nbsp;
 
 Please Note:
 
-Rovena Top can be custom made just for you.
+Zara Top can be custom made just for you.
 
 Choose from our range of current fabrics.
 
