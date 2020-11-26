@@ -16,6 +16,7 @@ font-family: 'apaluregular', fallback, sans-serif;
 Website Colours: List colour hex codes here for reference
 Green: #485651
 Mustard: #AC8949
+From designer: GREEN rgb(100,121,96); BROWN rgb(91,72,64) CREAM rgb(235, 233, 230)
 ----------------------------
 */
 
@@ -104,9 +105,9 @@ img {
 
 .header-image {
   background-size: cover;
-  background-position: bottom;
+  background-position: center;
   display: flex;
-  text-align: center;
+  text-align: left;
   min-height: 75vh;
 }
 h1, h2, a {
@@ -116,11 +117,16 @@ h1, h2, a {
 }
 
 h1 {
-  font-size: 12rem;
-  color: white;
+  font-size: 11rem;
+  color: rgb(100,121,96);
   padding: 0px;
   margin: 0px;
 }
+
+.front-title  {
+    padding-left: 20rem;
+  }
+
 h2 {
   font-size: 8rem;
   color: black;
@@ -376,8 +382,8 @@ span {
 
 nav a {
     text-decoration: none;
-    padding: 1em;
-    color: white;
+    padding: 0;
+    color: rgb(100,121,96);
     font-size: 3rem;
     font-weight: 300;
     text-align: center;
@@ -388,6 +394,11 @@ nav a:hover {
   color: #AC8948; /* featured color */
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
+}
+
+.front-nav {
+  background-color: rgba(235, 233, 230,0.5);
+  height: 6rem;
 }
 
 .logo {
@@ -404,7 +415,7 @@ header {
 header nav a {
   display: inline-flex;
   flex-direction: row;
-  padding: 2.5rem;
+  padding: 1rem;
   font-size: 2rem;
 }
 
