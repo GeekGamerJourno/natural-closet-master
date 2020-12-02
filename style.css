@@ -264,7 +264,7 @@ span {
 }
 
 .banner {
-  background-image: url('images/joanna-kosinska-129039.jpg');
+  /* background-image: url('images/joanna-kosinska-129039.jpg'); */
   background-size: cover;
   background-position: 40% 32%;
   background-color: #AC8948;
