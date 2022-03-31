@@ -5,7 +5,11 @@ plugins:
   - jekyll-paginate
 
 collections:
-   products:
+   clothing:
+    output: true
+   fabrics:
+    output: true
+   customers:
     output: true
 
 

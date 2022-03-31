@@ -1,0 +1,33 @@
+---
+layout: default
+title: Collection
+---
+
+
+<section class="grid" style="padding: 2rem; margin: 1rem;">
+  <!-- I took out the 'tall' class here to remove a gap at the bottom of the picture. Add it back in if you go to multiple images -->
+
+  <div class="col-6_sm-12">
+      <img class="third-width" src="{{page.image_path}}" >
+      <!-- The following for loop needs to stay on one line as it's using inline-block, when there is no space between the loop and the image it will eliminate the linespace issue. -->
+      {% for image in page.images %}<img class="third-width" src={{image.url}} alt="{{image.alt}}">{% endfor %}
+  </div>
+
+  <div class="col-6_sm-12">
+    <h2> {{page.name}} </h2>
+    <!-- <h3> $ {{page.price}}</h3> this is the price -->
+
+    {{content}}
+<!-- This is the buy now button -->
+    <!-- <button
+      class="snipcart-add-item"
+      data-item-id="{{page.id}}"
+      data-item-name="{{page.name}}"
+      data-item-price="{{page.price}}"
+      data-item-weight="{{page.weight}}"
+      data-item-url="{{page.url}}"
+      data-item-description="{{page.description}}">
+          Buy Now
+      </button> -->
+    </div>
+</section>
