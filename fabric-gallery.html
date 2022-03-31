@@ -2,18 +2,21 @@
 layout: default
 title: Nathans Boutique | Fabric Gallery
 ---
-
 <section class="editable">
-             <h2 class="centered">Fabric Gallery</h2>
-             <div class="grid centered fabric-loop" style="padding: 1rem">
-                <div class="col-3_sm-6_xs-12">
-                   <div class="col-12 box-img" style="background-image: url('uploads/linens/fabric_image.jpg');"></div>
-                   <div class="col-8 left">
-                     <h3 class="black no-padding left"><a class="grid" href="/fabrics/test_fabric.html">Test Fabric</a></h3>
-                   </div>
-                   <div>
-                     <a class="grid" href="/fabrics/test_fabric.html"></a>
-                   </div>
-                 </div>
-               </div>
+<!-- this sets the grid for the gallery page -->
+  <h2 class="centered">Fabric Gallery</h2>
+  <div class="grid centered clothing-loop" style="padding: 1rem">
+
+    {% for fabric in site.fabrics %}   <!-- this starts the gallery loop -->
+    <div class="col-3_sm-6_xs-12"><!-- sets the grid layout -->
+
+      <div class="col-12 box-img" style="background-image: url({{ fabric.image_path }})"><a class="grid" href="{{ fabric.url }}"></a><!-- This sets the image from the page as the one in the gallery grid and makes it clickable -->
+      </div>
+      <div class="col-8 left"> <!-- this places the heading under the image -->
+        <h3 class="black no-padding left"><a class="grid" href="{{ fabric.url }}">{{ fabric.name }}</a></h3> <!-- This creates the link to the customer page -->
+      </div>
+    </div>
+  {% endfor %} <!-- this ends the loop -->
+
+  </div>
 </section>
