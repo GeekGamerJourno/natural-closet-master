@@ -255,38 +255,6 @@ span {
   padding: 1rem;
 }
 
-/* Leaf iconsection  */
-
-.iconsection {
-  background-color: #485651;
-  color: white;
-  padding: 3rem;
-  min-height: 40vh;
-}
-
-.iconsection p, i {
-  padding-left: 3rem;
-  padding-right: 3rem;
-}
-
-.iconsection h3 {
-  padding: 2rem;
-  font-size: 2.5;
-  text-align: center;
-}
-
-.iconsection p {
-  font-size: 1.5rem;
-  font-family: 'Montserrat', sans-serif;
-  text-align: center;
-}
-
-.fa-envira{
-  text-align: center;
-  display: block;
-  padding-bottom: 1rem;
-}
-
 .banner {
   /* background-image: url('images/joanna-kosinska-129039.jpg'); */
   background-size: cover;
