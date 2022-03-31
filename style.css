@@ -16,6 +16,7 @@ Natural Closet font-family: 'apaluregular', fallback, sans-serif;
 Website Colours: List colour hex codes here for reference
 Green: #485651
 Mustard: #AC8949
+Brown: #472D0E
 From designer: GREEN rgb(100,121,96); BROWN rgb(91,72,64) CREAM rgb(235, 233, 230)
 ----------------------------
 */
@@ -90,7 +91,9 @@ img {
 
 .black {color: black;}
 
-.white{color: white;}
+.white {color: white;}
+
+.brown {color: #472D0E}
 
 /* ----- UNIVERSAL STYLES --------------------------- */
 
@@ -111,11 +114,27 @@ section {
 
 .header-image {
   background-size: cover;
+  background-position: top;
+  display: flex;
+  min-height: 60vh;
+}
+
+.linen-banner {
+  background-image: url('/images/green_linen.jpg');
+  /* background-size: cover; */
   background-position: center;
   display: flex;
-  text-align: left;
-  min-height: 75vh;
 }
+
+.dressmaker {
+  background-image: url('/images/dressmaker.jpg');
+  background-size: cover;
+  background-position: top;
+  display: flex;
+  min-height: 100%;
+}
+
+
 h1, h2, a {
   font-family: 'Gideon Roman', cursive;
   text-decoration: none;
@@ -125,27 +144,25 @@ h1, h2, a {
 h1 {
   font-family: 'gideon roman', cursive;
   font-size: 8rem;
-  color: rgb(100,121,96);
+  color: #472D0E;
   padding: 0px;
   margin: 0px;
 }
 
 .front-title  {
-    padding-left: 20rem;
+    text-align: center;
   }
 
 h2 {
   font-size: 8rem;
   color: black;
   font-weight: 300;
-  text-align: center;
 }
 
 h3 {
   font-size: 1.5rem;
   font-family: 'Montserrat', sans-serif;
   color: white;
-  text-align: center;
   padding-top: 4rem;
   font-weight: 300;
 }
@@ -154,27 +171,21 @@ h4 {
   font-size: 1rem;
   font-family: 'Montserrat', sans-serif;
   color: white;
-  text-align: center;
   padding-top: 4rem;
 
 }
 
 h5 {
   font-size: 6rem;
-  text-align: left;
-  line-height: 2.2rem;
   font-family: 'Gideon Roman', cursive;
   font-weight: 300;
 }
 
 h6 {
   font-size: 4rem;
-  text-align: left;
-  line-height: 2.2rem;
   font-family: 'Gideon Roman', cursive;
   font-weight: 300;
 }
-
 
 p {
   font-size: 1.5rem;
@@ -187,40 +198,40 @@ a {
 }
 
 span {
-  color: #AC8948;
+  color: #472D0E;
   font-family: 'Gideon Roman', cursive;
 }
 
 .tile-image1 {
-  background-image: url('images/tops.jpg');
+  background-image: url('images/clothing-gallery.png');
   background-size: cover;
   background-position: center;
   text-align: center;
-  min-height: 25vh;
+  min-height: 40vh;
   margin: 1%;
 }
 .tile-image2 {
-  background-image: url('images/bottoms.jpg');
+  background-image: url('images/fabric-gallery.png');
   background-size: cover;
   background-position: center;
   text-align: center;
-  min-height: 25vh;
+  min-height: 40vh;
   margin: 1%;
 }
 .tile-image3 {
-  background-image: url('images/dresses.jpg');
+  background-image: url('images/custom-made-gallery.jpg');
   background-size: cover;
   background-position: center;
   text-align: center;
-  min-height: 25vh;
+  min-height: 40vh;
   margin: 1%;
 }
 .tile-image4 {
-  background-image: url('images/bespoke.jpg');
+  background-image: url('images/tape-measure.jpg');
   background-size: cover;
   background-position: center;
   text-align: center;
-  min-height: 25vh;
+  min-height: 40vh;
   margin: 1%;
 }
 
@@ -253,16 +264,6 @@ span {
 
 .about {
   padding: 1rem;
-}
-
-.banner {
-  /* background-image: url('images/joanna-kosinska-129039.jpg'); */
-  background-size: cover;
-  background-position: 40% 32%;
-  background-color: #AC8948;
-  display: flex;
-  text-align: center;
-  min-height: 40vh;
 }
 
 /* Buttons */
@@ -545,7 +546,7 @@ input[type=text], select, textarea {
 
 /* Style the submit button with a specific background color etc */
 input[type=submit] {
-  background-color: #AC8948; /*mustard*/
+  background-color: #472D0E; /*brown*/
   color: white;
   width: 100%;
   padding: 12px 19px;
@@ -564,7 +565,7 @@ input[type=submit]:hover {
 /* Add a background color and some padding around the form */
 .container {
   border-radius: 5px;
-  background-color: #485651;
+  /* background-color: #485651; */
   padding: 20px;
 }
 

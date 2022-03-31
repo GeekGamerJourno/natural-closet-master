@@ -1,17 +1,20 @@
 ---
 layout: home
 banner-heading: Nathans Boutique
-banner-image: images/banner.jpg
+banner-image: images/carole-banner.png
 title: Natural Closet | Linen Fashion
 ---
 
 <body>
+  <div class="grid linen-banner">
+    <h6 class="brown col-12-centered grid-bottom" style="padding: 1%;">Custom Made Clothing</h6>
+  </div>
+
   <header class="grid header-image" style="background-image: url('{{page.banner-image}}');">
-    <div class="col-12-middle">
+      <div class="col-12-bottom">
     <h1 class="col-12 front-title">{{page.banner-heading}}</h1>
-    <!-- </div>
-      {% include navigation.html %}   <!-- this places the nav bar on the banner -->
-    <!-- </div> -->
+      <!-- {% include navigation.html %}   <!-- this places the nav bar on the banner -->
+    </div>
   </header>
 
 
@@ -25,30 +28,36 @@ title: Natural Closet | Linen Fashion
   </div> <!-- end grid -->
 </section>
 
-<!-- big banner section -->
-<!-- <section class="grid banner">
-  <div class="col-12-middle"> <!-- banner class need for the span-->
-    <!-- <h4 class="little">never underestimate the power of</h4>
-    <h3 class="big no-padding">a well made <span class="white">dress</span></h3>
-  </div>
-</section> -->
+<!-- dressmaker section -->
+<section class="grid dressmaker">
+    <div class="col-12-middle grid-3-right">
+      <h2 class="brown col-6 right" style="font-size: 6rem;">Meet your Dressmaker</h2>
+    </div>
+</section>
 
 <!-- let's connect section -->
-<section class="connect">
-  <div class="grid">
+<section class="connect linen-banner">
+  <div class="grid-bottom">
       <div class="col-8_sm-12">
-        <h5>Let's <span>connect</span></h5>
-        <br />
-        <p class="connect-text editable">
-           Got a question or want to make a purchase? Send me an email or visit in store.<br /><br />Nathan&rsquo;s Boutique<br />1/124 Targo Street<br />Cnr Walker Street<br />Bundaberg, QLD, 4670<br />Ph: 0427 556 630
+        <h5>Let's connect</h5>
+        <br><br>
+          <p class="connect-text editable white">
+           Get started on your bespoke clothing journey today. <br>
+           Send me an email or visit in store.<br><br>
+
+           Nathan's Boutique<br>
+           1/124 Targo Street <br>
+           Cnr Walker Street<br>
+           Bundaberg, QLD, 4670<br>
+           Ph: 0427 556 630
         </p>
       </div>
       <div class="col-4_sm-12 container">
           <form method="post" action="/index.html">
             <input type="hidden" name="_to" value="nathansboutique@bigpond.com" /><!--sends the form to my email-->
-            <input type="text" id="fname" name="firstname" placeholder="Your name.." />
-            <input type="text" id="email" name="email" placeholder="Your email.." />
-            <textarea id="subject" name="subject" placeholder="Tell us what you want to say..." style="height:200px"></textarea>
+            <input type="text" id="fname" name="firstname" placeholder="Your name..." />
+            <input type="text" id="email" name="email" placeholder="Your email..." />
+            <textarea id="subject" name="subject" placeholder="Got a question or want to make a purchase?" style="height:200px"></textarea>
             <input type="submit" value="Submit" />
           </form>
       </div>
