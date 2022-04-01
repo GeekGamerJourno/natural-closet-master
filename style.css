@@ -121,14 +121,14 @@ section {
 
 .linen-banner {
   background-image: url('/images/green_linen.jpg');
-  /* background-size: cover; */
+  background-size: cover;
   background-position: center;
   display: flex;
 }
 
 .dressmaker {
   background-image: url('/images/dressmaker.jpg');
-  background-size: cover;
+  background-size: 100%;
   background-position: top;
   display: flex;
   min-height: 100%;
@@ -354,19 +354,10 @@ span {
     color: black;
 }
 
-/* Customising the snipcart pop-up */
-.snip-layout .snip-header,
-.snip-layout .snip-footer {
-  background-color:  #485651; /* featured color */
-}
-.snip-layout .snip-footer__copyright {
-  color: white;
-}
-
 .little {
   font-size: 2rem;
   text-align: center
-  font-family: 'work-sans';
+  font-family: 'Montserrat', sans-serif;
   font-weight: normal;
   color: black
 }
@@ -376,31 +367,6 @@ span {
   text-align: center;
   font-family: 'Gideon Roman', cursive;
   color: black;
-}
-
-.quote-text {
-  font-size: 2.8rem;
-  text-align: center;
-}
-
-.quote-author {
-  font-size: 1rem;
-  padding: 2rem;
-  text-align: right;
-  color: grey;
-}
-
-.quote {
-  padding: 5rem;
-  min-height: 40vh;
-}
-
-.fa-quote-left {
-  color: grey;
-}
-
-.fa-quote-right {
-  color: grey;
 }
 
 .connect {
