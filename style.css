@@ -216,18 +216,18 @@ span {
 }
 
 .tile-image1 {
-  background-image: url('images/clothing-gallery.png');
+  background-image: url('images/clothing-gallery.jpg');
   background-size: cover;
-  background-position: center;
-  text-align: center;
+  background-position: center top;
+  background-repeat: no-repeat;
   min-height: 50vh;
   margin: 1%;
 }
 .tile-image2 {
-  background-image: url('images/fabric-gallery.png');
+  background-image: url('images/fabric-gallery.jpg');
   background-size: cover;
-  background-position: center;
-  text-align: center;
+  background-position: center top;
+  background-repeat: no-repeat;
   min-height: 50vh;
   margin: 1%;
 }
@@ -235,7 +235,7 @@ span {
   background-image: url('images/custom-made-gallery.jpg');
   background-size: cover;
   background-position: center top;
-  text-align: center;
+  background-repeat: no-repeat;
   min-height: 50vh;
   margin: 1%;
 }
@@ -243,17 +243,22 @@ span {
   background-image: url('images/tape-measure.jpg');
   background-size: cover;
   background-position: center top;
-  text-align: center;
+  background-repeat: no-repeat;
   min-height: 50vh;
   margin: 1%;
-}
 
+}
 .tile-text {
-  font-size: 8rem;
-  color: black;
+  font-size: 2rem;
   font-weight: 300;
-  text-align: center;
   text-decoration: none;
+  text-align: center;
+  font-size: 2rem;
+  color: #472D0E;
+  background-color: rgb(255,255,255, 0.8);
+  padding: 3%;
+
+
 }
 
 /* about page */
