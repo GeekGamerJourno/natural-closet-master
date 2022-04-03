@@ -43,7 +43,7 @@ From designer: GREEN rgb(100,121,96); BROWN rgb(91,72,64) CREAM rgb(235, 233, 23
 }
 a:visited {
   text-decoration: none;
-  color:#AC8949;
+  color: inherit;
 }
 
 img {
@@ -109,14 +109,14 @@ img {
 }
 
 section {
-  padding: 10vh 5%;
+  padding: 2%;
 }
 
 .header-image {
   background-size: cover;
   background-position: top;
   display: flex;
-  min-height: 60vh;
+  min-height: 75vh;
 }
 
 .linen-banner {
@@ -130,10 +130,23 @@ section {
   background-image: url('/images/dressmaker.jpg');
   background-size: 100%;
   background-position: top;
+  background-repeat: no-repeat;
   display: flex;
-  min-height: 100%;
+  min-height: 100vh;
 }
 
+.dressmaker h2  {
+  text-align: right;
+  font-size: 6rem;
+  color: #472D0E;
+}
+
+.header-image h6 {
+  font-size: 3rem;
+  font-family: 'Gideon Roman', cursive;
+  text-align: right;
+  color: #472D0E;
+}
 
 h1, h2, a {
   font-family: 'Gideon Roman', cursive;
@@ -207,7 +220,7 @@ span {
   background-size: cover;
   background-position: center;
   text-align: center;
-  min-height: 40vh;
+  min-height: 50vh;
   margin: 1%;
 }
 .tile-image2 {
@@ -215,23 +228,23 @@ span {
   background-size: cover;
   background-position: center;
   text-align: center;
-  min-height: 40vh;
+  min-height: 50vh;
   margin: 1%;
 }
 .tile-image3 {
   background-image: url('images/custom-made-gallery.jpg');
   background-size: cover;
-  background-position: center;
+  background-position: center top;
   text-align: center;
-  min-height: 40vh;
+  min-height: 50vh;
   margin: 1%;
 }
 .tile-image4 {
   background-image: url('images/tape-measure.jpg');
   background-size: cover;
-  background-position: center;
+  background-position: center top;
   text-align: center;
-  min-height: 40vh;
+  min-height: 50vh;
   margin: 1%;
 }
 
@@ -245,11 +258,12 @@ span {
 
 /* about page */
 .sue-pic {
-  background-image: url('/images/sue.jpg');
+  background-image: url('/images/sue-pic.jpg');
   background-size: cover;
-  background-position: center;
+  background-position: center top;
+  background-repeat: no-repeat;
   text-align: center;
-  min-height: 50vh;
+  min-height: 100vh;
   padding: 1rem;
 }
 
@@ -258,7 +272,7 @@ span {
   background-size: cover;
   background-position: center;
   text-align: center;
-  min-height: 50vh;
+  min-height: 100vh;
   padding: 1rem;
 }
 
@@ -372,19 +386,19 @@ span {
 .connect {
   background-color: #485651;
   color: white;
-  padding: 5rem;
-  min-height: 40vh;
+  padding: 2rem;
+  min-height: 15vh;
 }
 
 .connect-text {
   font-size: 2rem;
-  padding-right: 100px;
+  /* padding-right: 100px; */
 }
 
 nav a {
     text-decoration: none;
     padding: 0;
-    color: rgb(100,121,96);
+    color: white;
     font-size: 3rem;
     font-weight: 300;
     text-align: center;
@@ -392,13 +406,13 @@ nav a {
 
 }
 nav a:hover {
-  color: #485651; /* featured color */
+  color: #472D0E; /* featured color */
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
 
 .front-nav {
-  background-color: rgba(235, 233, 230,0.5);
+  background-color: white;
   height: 6rem;
 }
 
@@ -418,14 +432,15 @@ header nav a {
   flex-direction: row;
   padding: 1rem;
   font-size: 2rem;
+  color: white;
 }
 
 header h2 {
   font-size: 4rem;
   text-align: left;
   color: white;
-  padding-top: 1rem;
-  margin-left: 2rem;
+  padding: 1rem;
+  /* margin-left: 2rem; */
 }
 
 header h3 {
@@ -456,11 +471,11 @@ footer nav a {
 }
 
 footer h2 {
-  font-size: 4rem;
+  font-size: 3rem;
   text-align: left;
   color: white;
   vertical-align: middle;
-  margin-left: 2rem;
+  padding: 1rem;
 }
 
 footer h3 {
@@ -479,23 +494,49 @@ footer p {
   font-size: 1rem;
 }
 
-/* footer nav .fa,
+footer nav .fa,
 .social-share nav .fa {
   padding: 0 1em 0 0;
-} */
+  color: white;
+}
+
+footer nav i:hover {
+  color: #472D0E; /* this makes the icons brown on hover */
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
 
 .pure-drawer { /* pop-out hamburger menu */
   padding: 5em 3%;
+  background-image: url();
 }
 
 .mob-nav a {
   display: block;
   padding: 0.5em;
   font-size: 3rem;
+  color: white;
 }
 
 .social-nav i{
   padding-top: 4rem;
+  color: white;
+}
+
+.social-nav a {
+    text-decoration: none;
+    padding: 0;
+    color: white;
+    font-size: 3rem;
+    font-weight: 300;
+    text-align: center;
+    font-family: 'Gideon Roman', cursive;
+
+}
+.social-nav a:hover {
+  color: #472D0E; /* featured color */
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
 }
 
 /* Style inputs with type="text", select elements and textareas */
@@ -569,6 +610,7 @@ input[type=submit]:hover {
   .mob-center {
     text-align: center;
   }
+
   /* ------ General Mobile Styles ---------*/
   /* This aligns everything to center on mobile, this is purely slylistic, remove or adjust to suit your design */
   body,

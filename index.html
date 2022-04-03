@@ -1,22 +1,21 @@
 ---
 layout: home
 banner-heading: Nathans Boutique
-banner-image: images/carole-banner.png
+banner-image: images/carole-banner.jpg
 title: Natural Closet | Linen Fashion
 ---
 
 <body>
-  <div class="grid linen-banner">
-    <h6 class="brown col-12-centered grid-bottom" style="padding: 1%;">Custom Made Clothing</h6>
+  <div class="grid linen-banner mob-hide">
+    <h6 class="brown col-12-centered grid-bottom" style="max-height: 6vh; font-size: 2rem; ">Custom Made Clothing</h6>
   </div>
-
   <header class="grid header-image" style="background-image: url('{{page.banner-image}}');">
       <div class="col-12-bottom">
-    <h1 class="col-12 front-title">{{page.banner-heading}}</h1>
+        <a href="/index" class="col-12 front-title mob-hide"><h1>{{page.banner-heading}}</h1></a>
+        <a href="/index" class="col-12-middle front-title mob-show"><h5 class="brown">{{page.banner-heading}}</h5></a>
       <!-- {% include navigation.html %}   <!-- this places the nav bar on the banner -->
     </div>
   </header>
-
 
 <!-- GRID SECTION ---->
 <section>
@@ -28,16 +27,22 @@ title: Natural Closet | Linen Fashion
   </div> <!-- end grid -->
 </section>
 
-<!-- dressmaker section -->
-<section class="grid dressmaker">
-    <div class="col-12-middle grid-3-right">
-      <h2 class="brown col-6 right" style="font-size: 6rem;">Meet your Dressmaker</h2>
+<!-- dressmaker section large -->
+<section class="grid dressmaker mob-hide">
+       <a href="/about" class="col-4-middle grid-right mob-hide"><h2>Meet your Dressmaker</h2></a>
+</section>
+
+<!-- dressmaker section on mobile -->
+<section class="grid mob-show">
+    <div class="col-middle header-image" style="background-image: url('/images/dressmaker.jpg');">
+      <a href="/about" class="col-3-middle"><h6>Meet your Dressmaker</h6></a>
     </div>
 </section>
 
+
 <!-- let's connect section -->
-<section class="no-padding connect linen-banner">
-  <div class="grid-bottom">
+<section class="connect linen-banner">
+  <div class="grid-bottom no-padding">
       <div class="col-8_sm-12">
         <h5>Let's <span>connect</span></h5>
         <br><br>
@@ -45,7 +50,7 @@ title: Natural Closet | Linen Fashion
            Get started on your bespoke clothing journey today. <br>
            Send me an email or visit in store.<br><br>
 
-           Nathan's Boutique<br>
+           Nathans Boutique<br>
            1/124 Targo Street <br>
            Cnr Walker Street<br>
            Bundaberg, QLD, 4670<br>
