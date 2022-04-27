@@ -1,5 +1,5 @@
 ---
-name: Customer Custom Orders
+name: Nathans Boutique | Custom Made Gallery
 layout: customer
 image_path:
 images:

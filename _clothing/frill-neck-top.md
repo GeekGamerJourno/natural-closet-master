@@ -7,7 +7,7 @@ description: |-
 layout: clothing
 type: Top
 date: 2020-04-22 00:00:00
-image_path: /uploads/IMG_0973 resize.jpg
+image_path: /uploads/IMG_0973-resize.jpg
 images:
   - url: /uploads/custom_resized_01aff53a-b3e1-48b6-90b1-061ea527db72.jpg
   - url: /uploads/custom_resized_4a681b52-4af3-4546-bfbc-81a13ace441c.jpg
