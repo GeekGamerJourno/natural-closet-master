@@ -33,8 +33,14 @@ body {
 }
 
 .mobile-nav a:hover {
-  color: #AC8948;
+  color: #472D0E; /*brown */
 }
+
+
+.social-nav a:hover {
+  color: #472D0E; /*brown */
+}
+
 .mobile-nav .social-icon {
   display: inline-block;
   padding: 0.5em;
@@ -42,6 +48,10 @@ body {
 .mobile-nav hr {
     border: 1px solid white;
     margin: 3vh 0;
+}
+
+.mobile-nav a:hover {
+  color: #472D0E; /*brown */
 }
 
 @media(max-height:600px) {
@@ -54,7 +64,6 @@ body {
       margin: 0.5vh 0;
   }
 }
-
 
 
 /**************
@@ -76,8 +85,8 @@ body {
 }
 
 .pure-toggle:focus ~ .pure-toggle-label {
-  border-color: #00A9BF; /* Teal */
-  color: #00A9BF;
+  border-color: #472D0E; /* Brown */
+  color: #472D0E;
 }
 
 .pure-toggle-label {
@@ -100,14 +109,14 @@ body {
 }
 
 .pure-toggle-label:hover {
-  border-color: #00A9BF;
-  color: #00A9BF;
+  border-color: #472D0E;
+  color: #472D0E;
 }
 
 .pure-toggle-label:hover .pure-toggle-icon,
 .pure-toggle-label:hover .pure-toggle-icon:before,
 .pure-toggle-label:hover .pure-toggle-icon:after {
-  background-color: #00A9BF;
+  background-color: white;
 }
 
 .pure-toggle-label:active {
@@ -123,7 +132,7 @@ body {
   height: 3px;
   width: 35px;
   cursor: pointer;
-  background: rgb(150,150,155); /* light grey */
+  background: white;
   display: block;
   content: '';
   -webkit-transition: all 200ms ease-in-out;
@@ -171,8 +180,8 @@ body {
 .pure-toggle[data-toggle='left']:checked ~ .pure-toggle-label[data-toggle-label='left'],
 .pure-toggle[data-toggle='right']:checked ~ .pure-toggle-label[data-toggle-label='right'],
 .pure-toggle[data-toggle='top']:checked ~ .pure-toggle-label[data-toggle-label='top'] {
-  border-color: #00A9BF;
-  color: #00A9BF;
+  border-color: #472D0E;
+  color: #472D0E;
 }
 
 .pure-toggle[data-toggle='left']:checked ~ .pure-toggle-label[data-toggle-label='left'] .pure-toggle-icon,
@@ -216,7 +225,7 @@ body {
   z-index: 1;
   height: 100%;
   visibility: hidden;
-  background-color: #41414D;
+  background-color: #04995d; /*green*/
   -webkit-transition-property: all;
           transition-property: all;
   -webkit-transition-duration: 200ms;
