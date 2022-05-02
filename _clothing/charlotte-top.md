@@ -1,8 +1,6 @@
 ---
 name: Charlotte Top. Perfect Plus Size Top
 layout: clothing
-type: Top
-date: 2020-04-22 00:00:00
 image_path: /uploads/charlotte-top-2.jpg
 images:
   - url: /uploads/charlotte-top-1.jpg

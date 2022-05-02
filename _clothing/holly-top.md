@@ -1,9 +1,6 @@
 ---
 name: Holly Top
-description:
 layout: clothing
-type: Top
-date: 2020-04-22 00:00:00
 image_path: /uploads/holly-3.jpg
 images:
   - url: /uploads/holly-1.jpg
@@ -11,9 +8,6 @@ images:
   - url: /uploads/14BD78B0-6A62-4380-A0FF-0F31F23AFBE8.jpeg
   - url: /uploads/347AB592-2912-40CD-8599-B290797CDEEB.jpeg
 ---
-
-**Holly Top.**
-
 $159.95
 
 A very smart top with the front frill.
@@ -35,9 +29,3 @@ We may not have the fabrics the images are photographed in.
 This design can be custom made just for you.
 
 Choose from our range of current fabrics or we can make up your fabric.
-
-\* Click here for Fabric collection.
-
-\* Click here for measurement advice.
-
-Ring for help in anyway 0427556630. Sue or Carole are the Ladies to talk to.
