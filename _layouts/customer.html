@@ -37,6 +37,8 @@ title: Nathans Boutique | Custom Made Gallery
       <!-- The following for loop needs to stay on one line as it's using inline-block, when there is no space between the loop and the image it will eliminate the linespace issue. -->
        {% for image in page.images %}<img class="col-4_md-8_sm-12" src={{image.url}} alt="{{image.alt}}">{% endfor %}
     
+    
+    
     </div>
 
     <div class="post col-4_sm-12">
@@ -44,7 +46,10 @@ title: Nathans Boutique | Custom Made Gallery
 
             {{content}}
 
-
+          <br>
+          <p class="button centered"><a href="/fabric-gallery">See our <br> Fabric Gallery</a></p>
+          <p class="button centered"><a href="/about#how-to-measure">Learn How <br> to Measure</a></p>
+          <p class="button centered"><a href="tel:0427556630">Call Sue <br> or Carole</a></p>
 
 
       </div>
