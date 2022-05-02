@@ -10,7 +10,7 @@ title: clothing
     <div class="col-8_sm-12 grid">
       <img class="col-4_md-8_sm-12" src="{{page.image_path}}">
       <!-- The following for loop needs to stay on one line as it's using inline-block, when there is no space between the loop and the image it will eliminate the linespace issue. -->
-      <!-- {% for image in page.images %}<img class="quarter-width col-4_md-8_sm-12" src={{image.url}} alt="{{image.alt}}">{% endfor %} -->
+      {% for image in page.images %}<img class="quarter-width col-4_md-8_sm-12" src={{image.url}} alt="{{image.alt}}">{% endfor %}
     </div>
 
     <div class="editable post col-4_sm-12">
