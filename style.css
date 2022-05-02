@@ -387,7 +387,7 @@ span {
   margin: 0;
 }
 
-.customer-loop .box-img {
+.customer-loop img {
   max-height: 50vh; /*this allows the images to be the same height regardless of width so horizontal images display properly */
   display: inline-flex; /*this puts the images on the same line*/
   background-position: center;
