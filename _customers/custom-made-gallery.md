@@ -14,7 +14,11 @@ images:
 ---
 
 It's with great pride that I share with you a selection of our Ladies in their Custom Orders.  
+
 Whether it's Plus or Petite, Your Imagination for something different that fashion doesn't offer, frustration in not finding the right garment or just wanting a favourite piece replicated.  
+
 We are the ladies for you.  
+
 We are completely approachable and very honest. I'd much rather talk with you about your ideas.  
+
 The creative process is a personal one.
