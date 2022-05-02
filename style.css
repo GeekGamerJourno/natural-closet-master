@@ -51,6 +51,11 @@ img {
   max-height: 100%;
 }
 
+video {
+  max-width: 100%; /* This ensures a video never breaks it's container */
+  max-height: 100%;
+}
+
 [class*=grid-][class*=-equalHeight]>[class*=col] {
   display:block;
   /* This overrides a quirk where contents inside of equal height containers become columns themselves */
@@ -85,7 +90,6 @@ img {
 
 .quarter-width { /* for image grids, make sure you eliminate the whitespace issue in your html. Gives 3 images below product */
   width: 25%;
-  margin-right: 1%;
   display: inline-block;
 }
 
