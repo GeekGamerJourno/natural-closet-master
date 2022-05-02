@@ -285,6 +285,15 @@ span {
   padding: 1rem;
 }
 
+.video {
+  padding: 2rem;
+  max-width: 100%;
+  height: auto;
+position:
+
+
+}
+
 /* Buttons */
  button, /* button is an element snipcart uses */
 .button,
@@ -360,9 +369,8 @@ span {
 }
 
 .customer-loop .box-img {
-  /* min-height: 40vh; */
-  max-height: 50vh;
-  display: inline-flex;
+  max-height: 50vh; /*this allows the images to be the same height regardless of width so horizontal images display properly */
+  display: inline-flex; /*this puts the images on the same line*/
   background-position: center;
   background-size: cover;
 }
