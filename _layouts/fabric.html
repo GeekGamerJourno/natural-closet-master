@@ -2,19 +2,22 @@
 layout: default
 title: fabric
 ---
-<section class="grid " style="padding: 2rem; margin: 1rem;">
-  <!-- I took out the 'tall' class here to remove a gap at the bottom of the picture. Add it back in if you go to multiple images -->
+<section class="grid" style="padding: 2rem; margin: 1rem;">
+    <!-- I took out the 'tall' class here to remove a gap at the bottom of the picture. Add it back in if you go to multiple images -->
 
-  <div class="col-8_sm-12 grid">
+    <div class="col-8_sm-12 grid">
       <img class="col-4_md-8_sm-12" src="{{page.image_path}}" >
       <!-- The following for loop needs to stay on one line as it's using inline-block, when there is no space between the loop and the image it will eliminate the linespace issue. -->
       {% for image in page.images %}<img class="quarter-width col-4_md-8_sm-12" src={{image.url}} alt="{{image.alt}}">{% endfor %}
-  </div>
-
-  <div class="editable col-4_sm-12" style="padding: 1rem;">
-    <h6> {{page.name}} </h6>
-
-    {{content}}
-
     </div>
+
+    <div class="editable post col-4_sm-12">
+      <h6> {{page.name}} </h6>
+
+            {{content}}
+
+        <p class="button centered"><a href="/clothing-gallery">See what <br> We Make</a>
+        <p class="button centered"><a href="/about#how-to-measure">Learn How <br> to Measure</a></p>
+        <p class="button centered"><a href="tel:0427556630">Call Sue <br> or Carole</a></p>
+      </div>
 </section>
