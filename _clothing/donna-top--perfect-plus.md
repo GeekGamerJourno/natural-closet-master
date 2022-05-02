@@ -5,10 +5,8 @@ image_path: /uploads/Donna-2.jpg
 images:
   - url: /uploads/Donna-top-1.jpg
   - url: /uploads/donna-3.jpg
-  - url: /uploads/2021-08-26-135550.jpg
-  - url: /uploads/Amanda-top-3.jpg
-  - url: /uploads/Ayla--2-3.jpg
 ---
+
 $159.95
 
 Loose fitting top with no darts.
@@ -17,7 +15,7 @@ Pin tucks at neck front & back
 
 Pin tucks on Sleeve hem and bodice hem, finished off nicely with little frills.
 
-Great top to  use 2 contrasting fabrics.
+Great top to use 2 contrasting fabrics.
 
 Suitable for all sizes. 8 to 26
 
