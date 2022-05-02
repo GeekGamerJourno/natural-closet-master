@@ -7,6 +7,14 @@ images:
   - url: /uploads/amanda-top-2.jpg
 ---
 
-$159.95<br>A sweet top.<br>Straight bodice with darts.<br>With the added attraction of neck and arm frills. <br>Great for all sizes. <br>We can make for all sizes.
+$159.95
 
-Please Note:<br>This design can be custom made just for you.<br>Choose from our range of current fabrics or we'll make up your fabric.<br>
+A sweet top.
+
+Straight bodice with darts.
+
+With the added attraction of neck and arm frills.
+
+Great for all sizes.
+
+We can make for all sizes.
